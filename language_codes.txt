@@ -1,0 +1,10 @@
+bg bul  Bulgarian
+el ell  Greek
+en eng  English
+de deu  German
+fr fra  French
+it ita  Italian
+ja jpn  Japanese
+mg mlg  Malagasy
+
+
